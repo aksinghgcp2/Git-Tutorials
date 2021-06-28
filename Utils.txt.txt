@@ -1,1 +1,1 @@
-Utility function of version 4 in git hub
+Utility function of version 4
